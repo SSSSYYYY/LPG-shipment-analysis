@@ -1,4 +1,4 @@
-# sentiment-anaysis
+# LPG-shipment-analysis
 
 This is a co-project with a industry partner.
 
